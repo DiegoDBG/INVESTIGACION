@@ -3,7 +3,7 @@
 Las tarjetas de adquisición de datos (hardware) actúan como la interfaz entre una computadora y señales físicas, es decir, la información recaudada por el sensor se pasa al DAQ, el cual se encarga de transformar los códigos del mundo real a los códigos digitales, como si se tratara de un intérprete que traduce de un lenguaje a otro, con el fin de que el sistema digital (es decir, cualquier computadora o dispositivo electrónico) sea capaz de comprender los signos del analógico.
 Las tarjetas de adquisición de datos consisten en tres partes principales: por un lado, está el circuito de acondicionamiento de señales, después está el convertidor analógico-digital (ADC por sus siglas en inglés) y, finalmente, el bus del ordenador.
 
-![]()
+![](https://github.com/DiegoDBG/INVESTIGACION/blob/main/image.png?raw=true)
 
 ## 2.- ¿Qué es un HMI?
 HMI es el acrónimo de Human Machine Interface (interfaz humano-máquina). La definición de una interfaz humano-máquina es la de una interfaz de usuario o un panel de control que combina software y hardware para ayudar al operario a comunicarse entre sistemas y máquinas.
@@ -73,3 +73,8 @@ Un acondicionador de señal ayuda a obtener medidas precisas, como condición es
 -	Acondicionadores de señal digitales: Trabajan con señales discretas y son esenciales en la era moderna de la tecnología digital, especialmente en la comunicación y la informática.
 
 -	Acondicionadores de señal de frecuencia: Estos están diseñados para manejar señales de frecuencia específicas y se utilizan en aplicaciones como la radio y la televisión
+
+### Desarrollado por 
+Diego David Bahena Galan
+
+[GitHub](https://github.com/DiegoDBG)
