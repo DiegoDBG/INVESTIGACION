@@ -70,6 +70,8 @@ Los sensores ópticos son esenciales dentro de la robótica porque son los que p
 El acondicionamiento de señal es un proceso de adquisición de datos que se lleva a cabo mediante un instrumento llamado acondicionador de señal. Ese instrumento convierte un tipo de señal eléctrica o mecánica (señal de entrada) en otro (señal de salida).  El objetivo consiste en amplificar la señal y convertirla a otro formato fácil de leer y compatible con fines de adquisición de datos o de control de una máquina.
 Un acondicionador de señal ayuda a obtener medidas precisas, como condición esencial para la exactitud de la adquisición de datos o del control de máquinas. Este tipo de instrumentos son capaces de efectuar otras funciones adicionales.
 
+![](https://github.com/DiegoDBG/INVESTIGACION/blob/main/acondicionador.jpg?raw=true)
+
 -	Acondicionadores de señal analógicos: Operan con señales continuas y se utilizan ampliamente en aplicaciones como el control de procesos industriales.
   
 -	Acondicionadores de señal digitales: Trabajan con señales discretas y son esenciales en la era moderna de la tecnología digital, especialmente en la comunicación y la informática.
