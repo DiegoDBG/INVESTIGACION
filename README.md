@@ -9,7 +9,7 @@ Las tarjetas de adquisición de datos consisten en tres partes principales: por 
 HMI es el acrónimo de Human Machine Interface (interfaz humano-máquina). La definición de una interfaz humano-máquina es la de una interfaz de usuario o un panel de control que combina software y hardware para ayudar al operario a comunicarse entre sistemas y máquinas.
 Su objetivo es aumentar la productividad, incrementar el tiempo de funcionamiento y proporcionar una calidad de producto constante.
 
-![](https://github.com/DiegoDBG/INVESTIGACION/blob/main/image.png?raw=true)
+![](https://github.com/DiegoDBG/INVESTIGACION/blob/main/HMI.jpg?raw=true)
 
 ## 3.- Menciona los Elementos de un sistema de adquisición
 La adquisición de datos es un proceso mediante el cual fenómenos físicos del mundo real (sistema analógico) son transformados en señales eléctricas. Estas señales son medidas y convertidas en formato digital (conversión analógica-digital) para su procesamiento, análisis y almacenamiento en una computadora. Para ello se utiliza un módulo de digitalización o tarjeta de Adquisición de Datos (DAQ). Un sistema de adquisición de datos se compone básicamente de: 
