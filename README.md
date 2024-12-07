@@ -16,6 +16,8 @@ La adquisición de datos es un proceso mediante el cual fenómenos físicos del 
 - Sensores y transductores
 - Acondicionamiento de la señal 
 - Hardware y software para la adquisición de datos, PC (sistema de operación)
+  
+![](https://github.com/DiegoDBG/INVESTIGACION/blob/main/image.png?raw=true)
 
 **Transductores y sensores:** Los transductores y sensores son la interfaz entre el mundo real y el sistema de adquisición. Éstos convierten un fenómeno físico en señales eléctricas. El transductor es un elemento de censado que responde directamente a la cantidad física que se quiere medir (el transductor es referido frecuentemente como un sensor).
 
